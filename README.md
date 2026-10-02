@@ -4,8 +4,8 @@
 欢迎来到 **Tammy's Tech-Optimized Pack (tammy的生电优化)** 的专属反馈仓库！
 Welcome to the official issue tracker for **Tammy's Tech-Optimized Pack**!
 
-> **📥 整合包下载地址：** 本仓库仅用于问题反馈与建议，如需下载整合包，请前往 [Modrinth 页面](这里放你的Modrinth链接)。
-> **📥 Modpack Download:** This repository is ONLY for bug reports and suggestions. To download the modpack, please visit our [Modrinth Page](这里放你的Modrinth链接).
+> **📥 整合包下载地址：** 本仓库仅用于问题反馈与建议，如需下载整合包，请前往 [Modrinth 页面](https://modrinth.com/modpack/tammys-tech-optimized-pack)。
+> **📥 Modpack Download:** This repository is ONLY for bug reports and suggestions. To download the modpack, please visit our [Modrinth Page](https://modrinth.com/modpack/tammys-tech-optimized-pack).
 
 ---
 
@@ -14,8 +14,8 @@ Welcome to the official issue tracker for **Tammy's Tech-Optimized Pack**!
 This repository is used to track bugs, crashes, and feature suggestions for the modpack. Since this is a technical survival (redstone) focused pack, we know how frustrating it is when a machine breaks or the game crashes.
 本仓库用于追踪整合包的 Bug、崩溃报错以及建议。由于这是一个以生电（红石）为核心的整合包，我们深知机器损坏或游戏崩溃时的挫败感。
 
-Please use the [Issues](这里放你的Issues链接) tab to submit your feedback.
-请使用上方的 [Issues](这里放你的Issues链接) 标签页提交你的反馈。
+Please use the [Issues](https://github.com/blacktammy/TammysTech_OptimizedPack-Issue/issues) tab to submit your feedback.
+请使用上方的 [Issues](https://github.com/blacktammy/TammysTech_OptimizedPack-Issue/issues) 标签页提交你的反馈。
 
 ---
 
@@ -39,7 +39,6 @@ To help us resolve your issue as quickly as possible, **please copy and paste th
 **Environment / 环境信息:**
 - Modpack Version / 整合包版本: 
 - Minecraft Version / MC 版本: 
-- Fabric Loader Version / Fabric Loader 版本: 
 - Allocated RAM / 分配内存: 
 
 **Description of the Issue / 问题描述:**
@@ -64,8 +63,8 @@ To help us resolve your issue as quickly as possible, **please copy and paste th
 If you prefer to chat with us directly or need real-time help, feel free to join our community!
 如果你更希望直接与我们交流，或者需要实时帮助，欢迎加入我们的社区！
 
-· QQ 频道 (QQ Channel): 点击加入 QQ 频道
-· QQ 群 (QQ Group): 点击加入 QQ 群  (群号：你的QQ群号)
+· QQ 频道 (QQ Channel): 点击加入 [QQ频道](https://pd.qq.com/s/1i90z3ic3?b=9) 
+· QQ 群 (QQ Group): 点击加入 [QQ群聊](https://qun.qq.com/universal-share/share?ac=1&authKey=vOfft8qMaX%2FJlqMihvhVPmfgAFGoEuiyH5V%2BWmgt8redT0HlCBKEgQsKqX2QyOse&busi_data=eyJncm91cENvZGUiOiIxMDU4MTE4ODUzIiwidG9rZW4iOiJDNHBUSTNublVEU2MvU3IwdUVmSXUvNlcyL2h5QytRbkhtaTBqUUV6MTRrd1kzTkY3TkhFOTFLTTdoNmFhNW9OIiwidWluIjoiMjc4NjAyODM0MyJ9&data=6Ypquy5lePN7wjr_N4V_qXtGx91qkhJW96KQImfVs6GBFd9lwvvjWYa3j1u_EVmWAzyd76_RpRUnPt6CM5u8Fg&svctype=4&tempid=h5_group_info)  (群号：1058118853)
 
 ---
 
